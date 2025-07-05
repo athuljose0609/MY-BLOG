@@ -13,7 +13,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes
+remote_theme: null
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
