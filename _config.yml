@@ -1,7 +1,7 @@
 title: "ATHUL JOSE"
-email: ""
+email: "athuljose0609@gmail.com"
 description: >-
-  Student in International Business | Designer | Photographer | Writer
+  Master's Student | Designer | Photographer | Writer
 
 # Social
 twitter_username: athuljose0609
@@ -36,7 +36,7 @@ plugins:
 author:
   name   : "Athul Jose"
   avatar : "/assets/images/bio-photo.jpg"   # make sure the image exists
-  bio    : "Master's student | Designer | Photographer | Blogger"
+  bio    : "Master's student | Designer | Photographer | Writer"
   location: "Germany"
   links:
     - label: "LinkedIn"
