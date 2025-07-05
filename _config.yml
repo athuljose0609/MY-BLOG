@@ -13,8 +13,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes
-remote_theme: null
+theme: minimal-mistakes-jekyll
+#remote_theme: null
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
