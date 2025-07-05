@@ -41,16 +41,16 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://www.linkedin.com/in/athul-jose-17b88a319/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/athuljose0609"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yourhandle"
+      url: "https://instagram.com/athuljsep"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:your@email.com"
+      url: "mailto:athuljose0609@gmail.com"
 
 # Footer Social Links
 footer:
@@ -60,10 +60,10 @@ footer:
       url: "https://github.com/athuljose0609"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yourhandle"
+      url: "https://instagram.com/athuljsep"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://www.linkedin.com/in/athul-jose-17b88a319/"
 
 # Defaults
 defaults:
